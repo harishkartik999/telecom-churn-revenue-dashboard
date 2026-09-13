@@ -4,7 +4,7 @@ An interactive 4-page Power BI dashboard analyzing 7,043 telecom customers to id
 
 ## Overview
 
-This dashboard was built using the Maven Analytics / IBM Telecom Customer Churn dataset. It goes beyond surface-level churn reporting by using rate-based analysis (instead of raw counts) to avoid misleading conclusions, and by engineering a composite risk segment that isolates the customers most likely to leave.
+This dashboard uses the Maven Analytics / IBM Telecom Customer Churn dataset. It goes beyond surface-level churn reporting by using rate-based analysis (instead of raw counts) to avoid misleading conclusions, and by engineering a composite risk segment that isolates the customers most likely to leave.
 
 ## Key Findings
 
@@ -24,7 +24,17 @@ This dashboard was built using the Maven Analytics / IBM Telecom Customer Churn 
 
 ## Screenshots
 
-*(Add screenshots here — see instructions below)*
+### Business Overview
+![Business Overview](Business%20Overview.png)
+
+### Churned Analysis
+![Churned Analysis](Churned%20Analysis.png)
+
+### Revenue & Risk Analysis
+![Revenue & Risk Analysis](Revenue%20%26%20Risk%20Analysis.png)
+
+### Key Findings & Recommendations
+![Key Findings & Recommendations](Key%20Findings%20%26%20Recommendations.png)
 
 ## Tools & Techniques
 
