@@ -38,9 +38,9 @@ Source: [Maven Analytics / IBM Telecom Customer Churn](https://www.mavenanalytic
 
 ## Files
 
-- `telecom_customer_churn_dashboard.pbix` — the full Power BI file
-- `screenshots/` — page-by-page exports of the dashboard
-
----
+- [`Telecom+Customer+Churn.pbix`](Telecom%2BCustomer%2BChurn.pbix) — the full Power BI dashboard file
+- [`telecom_customer_churn.csv`](telecom_customer_churn.csv) — raw customer-level dataset
+- [`telecom_zipcode_population.csv`](telecom_zipcode_population.csv) — zip code population reference data
+- `*.png` — page-by-page screenshots of the dashboard
 
 *Built as a portfolio project to demonstrate data modeling, DAX, and business-focused dashboard design in Power BI.*
