@@ -42,10 +42,6 @@ This dashboard uses the Maven Analytics / IBM Telecom Customer Churn dataset. It
 - **DAX** — custom measures (`Churn Rate %`, `Avg Revenue per Customer`, `High Risk Churn Rate`) and a calculated column to engineer the composite high-risk segment
 - **Rate-based analysis** — deliberately favored churn *rate* over raw churned-customer *count* to avoid the bias of larger segments appearing "riskier" simply due to size (e.g. Offer E has a low churned count but the highest churn rate of any offer)
 
-## Dataset
-
-Source: [Maven Analytics / IBM Telecom Customer Churn](https://www.mavenanalytics.io/) — 7,043 customer records with demographic, service, billing, and churn-status fields.
-
 ## Files
 
 - [`Telecom+Customer+Churn.pbix`](Telecom%2BCustomer%2BChurn.pbix) — the full Power BI dashboard file
